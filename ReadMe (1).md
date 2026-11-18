@@ -1,0 +1,24 @@
+# 💫 About Me:
+Name<br>E. Leela Prasad<br><br><br>Machine Learning Intern @ Unified Mentor | MCA Candidate @ Andhra University | Building ML web apps & dashboards with Python, Scikit-learn & Streamlit.<br><br>Location: Srikalahasti, Andhra Pradesh, India<br><br>Brief About Me<br>I am a Machine Learning Developer and Master of Computer Applications (MCA) student at Andhra University (2024–2026), currently working as a Machine Learning Intern at Unified Mentor. I specialize in turning raw datasets into interactive, production-ready web applications, predictive models, and visual analytics dashboards using Python, Scikit-learn, Pandas, Plotly, and Streamlit.<br><br>Technical Skills<br><br>Programming & Data Analysis: Python, Pandas, Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA)<br><br>Machine Learning: Scikit-learn, KMeans Clustering, Principal Component Analysis (PCA), Gradient Boosting, Predictive Modeling<br><br>Frameworks & Visualization: Streamlit, Plotly, FastAPI, MLflow, LangChain<br><br>Tools & Environment: VS Code, Git, GitHub, PowerShell<br><br>Project Descriptions (Brief & Copy-Ready)<br><br>EduPro Student Segmentation & Demographics Analysis: Built an end-to-end learner segmentation and course recommendation web app using Python, KMeans clustering, PCA, and Streamlit.<br><br>Restaurant Profitability Analysis (SkyCity Analytics): Created an interactive multi-channel restaurant profitability dashboard using Python, Pandas, Plotly, and Streamlit to track margins and revenue performance.<br><br>Nassau Candy Orders Lead Time Prediction: Developed and deployed a machine learning web application using Gradient Boosting and Streamlit to predict supply chain order lead times.<br><br>6G Smart Factory: Conducted industrial manufacturing data analysis and operational tracking using Python and Pandas.<br><br>Toronto Ferry Analytics: Built a visual transit data analytics web application to explore ridership trends using Python and Streamlit.<br><br>Education & Experience<br><br>Role: Machine Learning Intern — Unified Mentor (6-Month Internship)<br><br>Degree: Master of Computer Applications (MCA) — Andhra University (2024–2026)<br><br>Interests<br>Strength training & fitness, digital portrait photography & AI prompt engineering, and motorcycle riding.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leela Prasad Etuka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leelaprasad.etuka@gmail.com) 
+
+# 💻 Tech Stack:
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=leelaprasad-etuka&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=leelaprasad-etuka&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=leelaprasad-etuka&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leelaprasad-etuka&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=leelaprasad-etuka&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=leelaprasad-etuka&icon=0&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
